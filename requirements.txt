@@ -1,0 +1,8 @@
+streamlit
+pickle
+pandas
+numpy
+re
+urllib.parse
+tldextract
+scikit-learn
