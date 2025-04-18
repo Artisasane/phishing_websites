@@ -4,4 +4,5 @@ pandas
 numpy
 re
 urllib.parse
-tldextract 
+tldextract
+scikit-learn
